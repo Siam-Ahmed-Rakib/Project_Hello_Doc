@@ -1,0 +1,4 @@
+// filepath: /e:/Project-Hello_Doc/netlify.toml
+[build]
+  command = "npm run build --prefix client"
+  publish = "client/build"
